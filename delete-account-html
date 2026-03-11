@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Eliminar cuenta - GymTracker</title>
+
+<style>
+body{
+font-family:system-ui;
+background:#0b0b10;
+color:white;
+margin:0;
+padding:40px;
+max-width:800px;
+margin:auto;
+}
+
+h1{
+font-size:40px;
+}
+
+p{
+color:#b6b6b6;
+font-size:18px;
+}
+
+a{
+color:#22c55e;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Eliminar cuenta de GymTracker</h1>
+
+<p>
+Si deseas eliminar tu cuenta de GymTracker puedes hacerlo de dos formas:
+</p>
+
+<h2>Desde la aplicación</h2>
+
+<p>
+1. Abre la aplicación GymTracker.
+<br>
+2. Ve a la sección <strong>Perfil</strong>.
+<br>
+3. Pulsa en <strong>Eliminar cuenta</strong>.
+<br>
+4. Confirma la eliminación.
+</p>
+
+<h2>Solicitar eliminación por correo</h2>
+
+<p>
+También puedes solicitar la eliminación de tu cuenta enviando un correo a:
+</p>
+
+<p>
+<strong>contacto@smartifyenergy.com</strong>
+</p>
+
+<p>
+Incluye en el mensaje el email con el que te registraste en la aplicación.
+La cuenta y todos los datos asociados serán eliminados permanentemente.
+</p>
+
+<p>
+Una vez eliminada la cuenta:
+</p>
+
+<ul>
+<li>Se eliminarán todos los datos de entrenamientos.</li>
+<li>Se eliminará tu información de usuario.</li>
+<li>No será posible recuperar la cuenta.</li>
+</ul>
+
+<p>
+© 2026 GymTracker
+</p>
+
+</body>
+</html>
